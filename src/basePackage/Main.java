@@ -3,6 +3,6 @@ package basePackage;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello world! Change 7: The Mutiny Push \"Let's go all in...\"");
+        System.out.println("Hello world! Change 6&7 = Change 8: \You old son of a bitch!\"");
     }
 }
